@@ -9,8 +9,12 @@ public class Singleton {
         System.out.println("22222222222222");
         System.out.println("222");
         System.out.println("888");
+        System.out.println("999");
+
+
+
         System.out.println("998");
-		
+
     }
 
 }
