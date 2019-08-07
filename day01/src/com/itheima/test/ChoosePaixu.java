@@ -11,6 +11,8 @@ public class ChoosePaixu {
         int[] array = {5, 8, 6, 3, 9, 2, 1, 7};
         sorts(array);
         System.out.println(Arrays.toString(array));
+        System.out.println(1111);
+		
 
     }
 
