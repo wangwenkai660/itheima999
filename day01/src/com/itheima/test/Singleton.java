@@ -10,10 +10,8 @@ public class Singleton {
         System.out.println("222");
         System.out.println("888");
         System.out.println("999");
-
-
-
         System.out.println("998");
+        System.out.println("10000");
 
     }
 
